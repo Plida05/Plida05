@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Plida05
+- 👋 Hi, I’m @nabilayuwvrida
 - 👀 I’m interested in Data Analys
 - 🌱 I’m currently learning Information Systems
 - 💞️ I’m looking to collaborate on Looking for a job
