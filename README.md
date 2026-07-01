@@ -1,12 +1,47 @@
-- 👋 Hi, I’m @nabilayuwvrida
-- 👀 I’m passionate about data analysis and enjoy building simple, functional websites that turn ideas into reality.
-- 🌱 I’m currently learning Information Systems
-- 💞️ I’m looking to collaborate on Looking for a job
-- 📫 How to reach me www.linkedin.com/in/rr-nabila-fatharani-yuwvrida-27a88817b
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: Pisces and INFP
+# 👋 Hi, I'm Nabila Fatharani Yuwvrida
 
-<!---
-Plida05/Plida05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an Information Systems undergraduate passionate about software engineering, web development, and data analysis. I enjoy building practical applications and continuously improving my technical skills through real-world projects.
+
+## 🌱 Currently Learning
+
+- Flutter
+- Java
+- REST API
+- Data Analysis
+- Software Engineering
+
+## 💻 Tech Stack
+
+- Java
+- Flutter
+- HTML
+- CSS
+- JavaScript
+- Python
+- SQL
+- Git & GitHub
+- Figma
+
+## 🚀 Featured Projects
+
+- 📊 SITTA Dashboard
+- 🌤 Jakarta Weather App
+- 💰 Flutter Crypto App
+- 🍽 Java Restaurant Ordering System
+
+## 🤝 Open to
+
+- Internship opportunities
+- Software Engineering
+- Backend Development
+- Web Development
+- Data Analysis
+
+## 📫 Connect with Me
+
+LinkedIn:
+www.linkedin.com/in/rr-nabila-fatharani-yuwvrida-27a88817b
+
+## ⚡ Fun Fact
+
+I love turning ideas into functional applications and documenting everything I build.
