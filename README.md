@@ -120,6 +120,12 @@ I am comfortable exploring both data workflows and software development to creat
 
 ---
 
+## 📁 Portfolio & Detailed Documentation
+For a more structured look at my skills, project gallery, and documentation, visit my Notion Portfolio:
+🔗 [Nabila's Notion Portfolio](https://app.notion.com/p/fridaworkspace-1/FRIDA-S-WORKSPACE-23a65ddaf4da808296ecf7dbd587c1ad?source=copy_link)
+
+---
+
 ## ⚡ Fun Fact
 
 I love turning ideas into functional applications, organizing messy information, and documenting everything I build. 📝✨
