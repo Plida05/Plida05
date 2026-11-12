@@ -116,7 +116,7 @@ I am comfortable exploring both data workflows and software development to creat
 ## 📫 Connect with Me
 
 - 💼 LinkedIn: [rr-nabila-fatharani-yuwvrida](https://www.linkedin.com/in/rr-nabila-fatharani-yuwvrida-27a88817b)
-- 📧 Email: [your-email@example.com]
+- 📧 Email: [nabilafrida23@gmail.com]
 
 ---
 
